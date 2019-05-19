@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/addEvent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginVertical="@dimen/text_space_2"
+            android:text="@string/add_event"
+            android:textSize="@dimen/default_text_size" />
+
+        <Button
+            android:id="@+id/seeCalander"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginVertical="@dimen/text_space_2"
+            android:text="@string/view_calender"
+            android:textSize="@dimen/default_text_size" />
+
+
+        <Button
+            android:id="@+id/listOfEvents"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginVertical="@dimen/text_space_2"
+            android:text="@string/view_list_of_events"
+            android:textSize="@dimen/default_text_size" />
+
+        <Button
+            android:id="@+id/google_maps_soonest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginVertical="@dimen/text_space_2"
+            android:text="@string/google_maps_locations"
+            android:textSize="@dimen/default_text_size" />
+
+        <Button
+            android:id="@+id/user_settings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginVertical="@dimen/default_gap"
+            android:text="@string/user_setting"
+            android:textSize="@dimen/default_text_size" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

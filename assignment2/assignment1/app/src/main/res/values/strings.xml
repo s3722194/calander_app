@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Movie Night Planner</string>
+    <string name="done">Done</string>
+    <string name="next">Next</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="movie">Movie</string>
+    <string name="movie_year">year</string>
+    <string name="see_movies">see_movies</string>
+    <string name="start_time_example"> Start Time (24 hour time):</string>
+    <string name="save"> Save</string>
+    <string name="remove_event"> Remove Event</string>
+    <string name="end_time_example"> End Time (24 hour time):</string>
+    <string name="date_of_event"> Date of Start Of Event: </string>
+    <string name="list_of_movies"> List Of Movies: None </string>
+    <string name="list_of_contacts"> List Of Contacts: None </string>
+    <string name="add_contacts"> Add Contacts </string>
+    <string name="venue"> Venue </string>
+    <string name="event_name"> Event Name </string>
+    <string name="date">Date</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="month">Month</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="t">T</string>
+    <string name="w">W</string>
+    <string name="f">F</string>
+    <string name="previous">Previous</string>
+    <string name="remove_contact">Remove Contact</string>
+    <string name="view_list_of_events">View List of Events</string>
+    <string name="add_event">Add Event</string>
+    <string name="view_calender">View Calender</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="date_of_end_date">Date of End Date: </string>
+    <string name="add_start_date">Add Start Date</string>
+    <string name="add_end_date">Add End Date</string>
+    <string name="add_location">Add Location</string>
+    <string name="location">Location: </string>
+    <string name="start_date_none">Start Date: None</string>
+    <string name="end_date_none">End Date: None</string>
+    <string name="notification"> Notification</string>
+    <string name="google_maps_locations">View Google Map Locations</string>
+    <string name="user_setting">User Settings</string>
+    <string name="notification_threshold">Notification Threshold: </string>
+    <string name="remind_again_duration">Remind Again Duration: </string>
+    <string name="notification_period">Notification Period: </string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAl1wrF2bsqeCM-ALe2Ssa4OYOb_ket7A4</string>
+    <string name="channel_description">normal</string>
+    
+
+
+</resources>
